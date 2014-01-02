@@ -1,6 +1,17 @@
-Kelompok MPPL :
-1.ANDINI ARUM
-2.MUCHAROM YULIANTO
-3.RINI LESTARI
-4.DESSY RATNA SARI
-5.ANDY DWI KURNIAWAN
+<html>
+<head>
+<title> formulir</title>
+</head>
+<body>
+<p><b>formulir Pendaftaran kursus </b></p>
+<form method="POST" action=" " name="form_kursus">
+  <table width="100%">
+  <tr>
+    <td>Nama</td>
+    <td>:</td>
+    <td><input type="text" name="nama" size="39"></td>
+  </tr>
+  </table>
+  </form>
+  </body>
+  </html>
